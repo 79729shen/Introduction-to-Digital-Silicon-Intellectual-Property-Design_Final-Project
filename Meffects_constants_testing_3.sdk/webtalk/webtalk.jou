@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# 
+# Start of session at: Mon Jun 19 15:03:52 2017
+# Process ID: 8700
+# Current directory: C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/webtalk/webtalk.log
+# Journal file: C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

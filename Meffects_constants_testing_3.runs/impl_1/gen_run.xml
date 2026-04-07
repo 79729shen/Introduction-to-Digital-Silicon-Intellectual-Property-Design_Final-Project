@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg484-1" LaunchTime="1497878906">
+  <File Type="ROUTE-STATUS-PB" Name="effects_loop_wrapper_route_status.pb"/>
+  <File Type="PA-TCL" Name="effects_loop_wrapper.tcl"/>
+  <File Type="OPT-DCP" Name="effects_loop_wrapper_opt.dcp"/>
+  <File Type="INIT-TIMING" Name="effects_loop_wrapper_timing_summary_init.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="effects_loop_wrapper_methodology_drc_opted.rpt"/>
+  <File Type="RDI-RDI" Name="effects_loop_wrapper.vdi"/>
+  <File Type="PWROPT-DRC" Name="effects_loop_wrapper_drc_pwropted.rpt"/>
+  <File Type="OPT-DRC" Name="effects_loop_wrapper_drc_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="effects_loop_wrapper_pwropt.dcp"/>
+  <File Type="OPT-HWDEF" Name="effects_loop_wrapper.hwdef"/>
+  <File Type="OPT-TIMING" Name="effects_loop_wrapper_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="effects_loop_wrapper_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="effects_loop_wrapper_placed.dcp"/>
+  <File Type="PLACE-IO" Name="effects_loop_wrapper_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="effects_loop_wrapper_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="effects_loop_wrapper_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="effects_loop_wrapper_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="effects_loop_wrapper_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="effects_loop_wrapper_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="effects_loop_wrapper_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="effects_loop_wrapper_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="effects_loop_wrapper_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="effects_loop_wrapper_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="effects_loop_wrapper_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="effects_loop_wrapper_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="effects_loop_wrapper_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-DCP" Name="effects_loop_wrapper_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="effects_loop_wrapper_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="effects_loop_wrapper_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="effects_loop_wrapper_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="effects_loop_wrapper_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="effects_loop_wrapper_methodology_drc_routed.pb"/>
+  <File Type="BG-BIT" Name="effects_loop_wrapper.bit"/>
+  <File Type="ROUTE-PWR" Name="effects_loop_wrapper_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="effects_loop_wrapper_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="effects_loop_wrapper_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="effects_loop_wrapper_route_status.rpt"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="effects_loop_wrapper_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="effects_loop_wrapper_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="effects_loop_wrapper_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="effects_loop_wrapper_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="effects_loop_wrapper_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="effects_loop_wrapper_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="effects_loop_wrapper_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="effects_loop_wrapper_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="effects_loop_wrapper_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="effects_loop_wrapper_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIN" Name="effects_loop_wrapper.bin"/>
+  <File Type="BITSTR-MSK" Name="effects_loop_wrapper.msk"/>
+  <File Type="BITSTR-RBT" Name="effects_loop_wrapper.rbt"/>
+  <File Type="BITSTR-NKY" Name="effects_loop_wrapper.nky"/>
+  <File Type="BITSTR-BMM" Name="effects_loop_wrapper_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="effects_loop_wrapper.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="effects_loop_wrapper.sysdef"/>
+  <File Type="BG-BGN" Name="effects_loop_wrapper.bgn"/>
+  <File Type="BG-DRC" Name="effects_loop_wrapper.drc"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/bd/effects_loop/effects_loop.bd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Meffects_constants/Meffects_constants.srcs/sources_1/bd/effects_loop/effects_loop.bd"/>
+        <Attr Name="ImportTime" Val="1491488469"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/bd/effects_loop/hdl/effects_loop_wrapper.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Meffects_constants/Meffects_constants.srcs/sources_1/bd/effects_loop/hdl/effects_loop_wrapper.vhd"/>
+        <Attr Name="ImportTime" Val="1491488468"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="effects_loop_wrapper"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/cost.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../Meffects_constants/Meffects_constants.srcs/constrs_1/new/cost.xdc"/>
+        <Attr Name="ImportTime" Val="1491488432"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2016"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

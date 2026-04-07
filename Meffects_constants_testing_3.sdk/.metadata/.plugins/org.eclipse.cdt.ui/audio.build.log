@@ -1,0 +1,8 @@
+13:42:26 **** Incremental Build of configuration Debug for project audio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: .`main-build רובע תושעל המ ןיא
+
+13:42:26 Build Finished (took 327ms)
+

@@ -1,0 +1,167 @@
+14:40:53 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+14:40:56 INFO  : XSDB server has started successfully.
+14:40:57 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+14:55:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:55:34 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493201" && level==0} -index 1' command is executed.
+14:55:37 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+14:55:53 INFO  : ps7_init is completed.
+14:55:53 INFO  : ps7_post_config is completed.
+14:55:54 INFO  : Processor reset is completed for ps7_cortexa9_0
+15:03:57 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+15:13:30 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+15:13:32 INFO  : XSDB server has started successfully.
+15:13:40 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+15:13:41 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
+15:13:41 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1497874375044,  Project:1497872375854
+15:13:41 INFO  : The hardware specification for project 'effects_loop_wrapper_hw_platform_0' is different from C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+15:13:41 INFO  : Copied contents of C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf into \effects_loop_wrapper_hw_platform_0\system.hdf.
+15:13:49 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+15:13:54 INFO  : 
+15:13:55 INFO  : Updating hardware inferred compiler options for audio.
+15:13:55 INFO  : Clearing existing target manager status.
+15:13:56 INFO  : Closing and re-opening the MSS file of ther project audio_bsp
+15:13:58 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+15:13:59 WARN  : Linker script will not be updated automatically. Users need to update it manually.
+15:21:27 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:21:31 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493201" && level==0} -index 1' command is executed.
+15:21:33 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+15:21:43 INFO  : ps7_init is completed.
+15:21:43 INFO  : ps7_post_config is completed.
+15:21:43 INFO  : Processor reset is completed for ps7_cortexa9_0
+16:27:10 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+17:09:40 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+17:09:42 INFO  : XSDB server has started successfully.
+17:09:50 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+17:09:51 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
+17:09:51 INFO  : SDK has detected change in the last modified timestamps for source hardware specification file Source:1497879297397,  Project:1497874375044
+17:09:51 INFO  : The hardware specification for project 'effects_loop_wrapper_hw_platform_0' is different from C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+17:09:51 INFO  : Copied contents of C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf into \effects_loop_wrapper_hw_platform_0\system.hdf.
+17:09:59 INFO  : Synchronizing projects in the workspace with the hardware platform specification changes.
+17:10:03 INFO  : 
+17:10:05 INFO  : Updating hardware inferred compiler options for audio.
+17:10:05 INFO  : Clearing existing target manager status.
+17:10:06 INFO  : Closing and re-opening the MSS file of ther project audio_bsp
+17:10:08 INFO  : Workspace synchronized with the new hardware specification file. Cleaning dependent projects...
+17:10:09 WARN  : Linker script will not be updated automatically. Users need to update it manually.
+17:27:34 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+17:27:39 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493201" && level==0} -index 1' command is executed.
+17:27:41 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+17:27:53 INFO  : ps7_init is completed.
+17:27:53 INFO  : ps7_post_config is completed.
+17:27:53 INFO  : Processor reset is completed for ps7_cortexa9_0
+18:56:51 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:59:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:59:21 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493201" && level==0} -index 1' command is executed.
+18:59:25 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+19:03:02 INFO  : ps7_init is completed.
+19:03:02 INFO  : ps7_post_config is completed.
+19:03:02 INFO  : Processor reset is completed for ps7_cortexa9_0
+19:49:44 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+09:32:13 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+09:32:15 INFO  : XSDB server has started successfully.
+09:32:16 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+09:32:16 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
+09:34:34 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+09:34:35 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493016" && level==0} -index 1' command is executed.
+09:34:37 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+09:34:50 INFO  : ps7_init is completed.
+09:34:50 INFO  : ps7_post_config is completed.
+09:34:50 INFO  : Processor reset is completed for ps7_cortexa9_0
+11:29:09 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+16:37:59 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+16:38:02 INFO  : XSDB server has started successfully.
+16:38:02 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+16:38:02 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
+16:44:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:45:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:45:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493016" && level==0} -index 1' command is executed.
+16:45:38 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+17:09:35 INFO  : ps7_init is completed.
+17:09:35 INFO  : ps7_post_config is completed.
+17:09:36 INFO  : Processor reset is completed for ps7_cortexa9_0
+17:28:25 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+10:50:10 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+10:50:14 INFO  : XSDB server has started successfully.
+10:50:15 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+10:50:15 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
+10:50:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:50:38 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493201" && level==0} -index 1' command is executed.
+10:50:41 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+10:51:02 INFO  : ps7_init is completed.
+10:51:02 INFO  : ps7_post_config is completed.
+10:51:02 INFO  : Processor reset is completed for ps7_cortexa9_0
+12:20:06 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+22:02:51 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+22:02:54 INFO  : XSDB server has started successfully.
+22:02:55 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+22:02:55 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
+22:03:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+22:03:34 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493201" && level==0} -index 1' command is executed.
+22:03:36 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+22:03:59 INFO  : ps7_init is completed.
+22:03:59 INFO  : ps7_post_config is completed.
+22:03:59 INFO  : Processor reset is completed for ps7_cortexa9_0
+23:16:02 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:16:03 INFO  : Processor reset is completed for ps7_cortexa9_0
+23:16:18 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:16:19 INFO  : Processor reset is completed for ps7_cortexa9_0
+23:16:28 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:16:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+23:58:08 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+23:58:09 INFO  : Processor reset is completed for ps7_cortexa9_0
+00:01:01 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+00:01:02 INFO  : Processor reset is completed for ps7_cortexa9_0
+00:01:12 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+00:01:17 INFO  : Processor reset is completed for ps7_cortexa9_0
+00:01:27 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+00:01:30 INFO  : Processor reset is completed for ps7_cortexa9_0
+01:17:50 INFO  : ps7_cortexa9_0 Processor is in use. Please stop existing Run or Debug sessions before launching.
+01:17:51 INFO  : Processor reset is completed for ps7_cortexa9_0
+01:32:20 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+23:19:54 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+23:19:58 INFO  : XSDB server has started successfully.
+23:19:58 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+23:19:59 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
+23:26:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+23:26:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493201" && level==0} -index 1' command is executed.
+23:26:36 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+23:28:10 INFO  : ps7_init is completed.
+23:28:11 INFO  : ps7_post_config is completed.
+23:28:11 INFO  : Processor reset is completed for ps7_cortexa9_0
+02:53:54 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+20:44:28 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+20:44:32 INFO  : XSDB server has started successfully.
+20:44:32 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+20:44:32 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
+20:45:59 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+20:46:00 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493201" && level==0} -index 1' command is executed.
+20:46:02 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+20:46:23 INFO  : ps7_init is completed.
+20:46:23 INFO  : ps7_post_config is completed.
+20:46:23 INFO  : Processor reset is completed for ps7_cortexa9_0
+01:02:38 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+12:04:29 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+12:04:32 INFO  : XSDB server has started successfully.
+12:04:33 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+12:04:33 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
+12:20:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+12:20:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493201" && level==0} -index 1' command is executed.
+12:20:18 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+12:20:28 INFO  : ps7_init is completed.
+12:20:28 INFO  : ps7_post_config is completed.
+12:20:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+13:41:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:41:44 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Zed 210248493201" && level==0} -index 1' command is executed.
+13:41:46 INFO  : FPGA configured successfully with bitstream "C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper_hw_platform_0/effects_loop_wrapper.bit"
+13:42:27 INFO  : ps7_init is completed.
+13:42:28 INFO  : ps7_post_config is completed.
+13:42:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+14:31:31 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+02:11:16 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+02:11:19 INFO  : XSDB server has started successfully.
+02:11:20 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+02:11:20 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
+02:20:48 INFO  : Launching XSDB server: xsdb.bat -interactive C:\zynq_book\Meffects_constants_testing_3\Meffects_constants_testing_3.sdk\temp_xsdb_launch_script.tcl
+02:20:52 INFO  : XSDB server has started successfully.
+02:20:52 INFO  : Processing command line option -hwspec C:/zynq_book/Meffects_constants_testing_3/Meffects_constants_testing_3.sdk/effects_loop_wrapper.hdf.
+02:20:52 INFO  : Checking for hwspec changes in the project effects_loop_wrapper_hw_platform_0.
