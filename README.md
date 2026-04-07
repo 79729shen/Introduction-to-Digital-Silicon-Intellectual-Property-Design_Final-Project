@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Architecture-PS%2FPL%20Co--Design-purple" alt="Architecture badge" />
 </p>
 
-> **Course project / 課程專題**  
 > Final project for **Introduction to Digital Silicon IP Design** at **National Chung Hsing University**.  
 > 國立中興大學 **《數位矽智產設計導論》** 課程期末專題。
 
@@ -64,8 +63,8 @@ This project implements a **real-time FPGA guitar multi-effects platform**. The 
 3. **Tremolo**
 4. **Delay**
 
-The uploaded source tree shows that the repository is not only a “source-only” archive: it preserves the **full Vivado project**, **generated implementation results**, **packaged custom IP**, **SDK application code**, and **project documentation**.  
-從上傳的原始碼樹可以看出，本儲存庫並不只是「單純原始碼壓縮檔」，而是保留了 **完整 Vivado 專案**、**實作輸出結果**、**封裝後的自訂 IP**、**SDK 應用程式碼** 以及 **專題文件**。
+The the repository is not only a “source-only” archive: it preserves the **full Vivado project**, **generated implementation results**, **packaged custom IP**, **SDK application code**, and **project documentation**.  
+本儲存庫並不只是「單純原始碼壓縮檔」，而是保留了 **完整 Vivado 專案**、**實作輸出結果**、**封裝後的自訂 IP**、**SDK 應用程式碼** 以及 **專題文件**。
 
 ### Project Information | 專案資訊
 
